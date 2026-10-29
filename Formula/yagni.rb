@@ -5,8 +5,8 @@
 class Yagni < Formula
   desc "YAGNI Code: a terminal coding agent that already knows your company"
   homepage "https://yagni.app/code"
-  url "https://registry.npmjs.org/@yagni-app/code/-/code-1.2.11.tgz"
-  sha256 "497917c48fdf6a17316ce82a44c32ac9c5fa57062a25359278409fdee71dbb25"
+  url "https://registry.npmjs.org/@yagni-app/code/-/code-1.2.12.tgz"
+  sha256 "7ea34d6ab92f4db6b92a0bd088c3e9850470a0bed3717d279c050581eb02e165"
   license :cannot_represent
 
   depends_on "node"
